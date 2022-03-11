@@ -1,7 +1,7 @@
 <h1>Sergio Filho👨🏽‍💻</h1>
   
   <h2>About me</h2>
-    <p> I'm Sergio, i am 19 years old and a computers enthusiasm. My goal is to become a great software engineer to help the advance of community and tech as well. </p>
+    <p> I'm Sergio, i am 20 years old and a computers enthusiasm. My goal is to become a great software engineer to help the advance of community and tech as well. </p>
     
   <h2>Skills</h2>
     <p>Actually i'm a trainee developer learning about:</p>
