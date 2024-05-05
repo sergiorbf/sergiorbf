@@ -8,12 +8,12 @@
 
 <div align="center">
   <a href="https://skillicons.dev" style="display: inline-block; margin-right: 20px;">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,go,ts,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,go,ts,js,mysql,html,css,sass,vscode,visualstudio" />
   </a>
 </div>
 
 <p></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiorbf" alt="sergiorbf" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiorbf&theme=tokyonight" alt="sergiorbf" />
 </p>
