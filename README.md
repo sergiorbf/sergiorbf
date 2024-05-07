@@ -1,5 +1,5 @@
 <h2 align="center">About Me </h2>
- <p> I'm Sergio, a 22 years old full-stack developer. My goal is to help advance the community and technology as well. </p>
+ <p> My goal is to help advance the community and technology as well. </p>
     
 
 <h2 align="center">Skills </h2>
