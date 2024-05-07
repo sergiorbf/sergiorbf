@@ -1,7 +1,7 @@
 <h1>Sergio Filho👨🏽‍💻</h1>
 
 <h2 align="center">About Me </h2>
- <p> I'm Sergio, a 21 years old full-stack developer. My goal is to become a great software engineer to help the advance of community and tech as well. </p>
+ <p> I'm Sergio, a 22 years old full-stack developer. My goal is to help advance the community and technology as well. </p>
     
 
 <h2 align="center">Skills </h2>
