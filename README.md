@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev" style="display: inline-block; margin-right: 20px;">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,go,ts,js,sql,html,css,sass,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,go,ts,js,mysql,html,css,sass,vscode,visualstudio" />
   </a>
 </div>
 
