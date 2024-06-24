@@ -8,7 +8,6 @@
   <a href="https://skillicons.dev" style="display: inline-block; margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=angular,react,ts,js,cs,go,mysql" />
   </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorbf&layout=compact&theme=dark) 
 </div>
 
 <p></p>
@@ -17,3 +16,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiorbf&theme=gruvbox" alt="sergiorbf" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorbf&layout=compact&theme=dark) 
