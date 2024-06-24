@@ -14,6 +14,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiorbf&theme=gruvbox" alt="sergiorbf" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorbf&layout=compact&theme=dark) 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorbf&layout=compact&theme=dark) 
