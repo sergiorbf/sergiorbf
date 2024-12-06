@@ -1,5 +1,5 @@
 <h2 align="center">About Me</h2>
-<p align="center"> Always chasing improvements </p>
+<p align="center"> Always chasing </p>
 
 <h2 align="center">Skills</h2>
 <div align="center">
