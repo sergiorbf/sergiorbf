@@ -8,8 +8,6 @@ Web Developer | Problem Solver | Tech Enthusiast
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20" /> C#  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20" /> PostgreSQL  
 
---
-
 ### 🌐 Connect  
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />](https://www.linkedin.com/in/sergio-rbf/) Make a connection
 - 📧 Email: contato.sergiorbf@gmail.com
