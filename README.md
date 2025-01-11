@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sergio  
+## Hi 👋, I'm Sergio  
 Web Developer | Problem Solver | Tech Enthusiast  
 
 ### ⚡ Skills  
