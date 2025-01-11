@@ -14,4 +14,4 @@ Web Developer | Problem Solver | Tech Enthusiast
 
 ## 🌐 Connect  
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" /> Make a connection](https://www.linkedin.com/in/sergio-rbf/)  
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" alt="Email" width="20" height="20" /> Send me an email](mailto:contato.sergiorbf@gmail.com)  
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mailchimp/mailchimp-original.svg" alt="Email" width="20" height="20" /> Send me an email](mailto:contato.sergiorbf@gmail.com)  
