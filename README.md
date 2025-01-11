@@ -1,4 +1,4 @@
-# Hi, I'm Sérgio 👋  
+# Hi 👋, I'm Sérgio  
 Web Developer | Problem Solver | Tech Enthusiast  
 
 ---
