@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sergio  
 Web Developer | Problem Solver | Tech Enthusiast  
 
-## ⚡ Skills  
+### ⚡ Skills  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20" /> React  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="20" height="20" /> Go  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="20" height="20" /> Angular  
@@ -10,6 +10,6 @@ Web Developer | Problem Solver | Tech Enthusiast
 
 --
 
-## 🌐 Connect  
+### 🌐 Connect  
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />](https://www.linkedin.com/in/sergio-rbf/) Make a connection
 - 📧 Email: contato.sergiorbf@gmail.com
