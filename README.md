@@ -13,5 +13,5 @@ Web Developer | Problem Solver | Tech Enthusiast
 ---
 
 ## 🌐 Connect  
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" /> Make a connection](https://www.linkedin.com/in/sergio-rbf/)  
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />](https://www.linkedin.com/in/sergio-rbf/)  
 - 📧 Email: contato.sergiorbf@gmail.com
