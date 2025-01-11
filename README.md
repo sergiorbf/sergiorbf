@@ -1,8 +1,6 @@
 # Hi 👋, I'm Sérgio  
 Web Developer | Problem Solver | Tech Enthusiast  
 
---
-
 ## ⚡ Skills  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20" /> React  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="20" height="20" /> Go  
