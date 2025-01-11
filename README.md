@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Sérgio</h1>
+<h1 align="center">Hi there! 👋 I'm Sergio</h1>
 <p align="center">
   🚀 Passionate about technology and always chasing growth! 
 </p>
@@ -15,7 +15,7 @@
 <h2 align="center">⚡ Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,cs,go,mysql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,go,angular,cs,mysql" alt="My Skills" />
   </a>
 </p>
 
@@ -34,15 +34,15 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergiorbf/" target="_blank">
+  <a href="https://www.linkedin.com/in/sergio-rbf/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sergiorbf@example.com">
+  <a href="contato.sergiorbf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://sergiorbf.github.io" target="_blank">
+  /*<a href="https://sergiorbf.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
+  </a>*/
 </p>
 
 ---
