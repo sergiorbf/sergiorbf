@@ -7,6 +7,6 @@
     <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,docker,go,react" />
   </a>
   <a href="https://skillicons.dev" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=postgres,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </div>
