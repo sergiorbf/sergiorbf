@@ -1,58 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 700px;
-            margin: auto;
-            padding: 20px;
-        }
-        h1 {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        h1::before {
-            content: "🌍";
-            font-size: 1.2em;
-        }
-        h3 {
-            color: gray;
-            font-weight: normal;
-            font-size: 1em;
-            margin-top: -10px;
-        }
-    </style>
-</head>
-<body>
+<html><head></head><body><h1>🌍 Hello, World!</h1>
 
-    <h1>Hello, World!</h1>
-    <p>Passionate developer always exploring new technologies and building exciting projects.</p>
+<p>Passionate developer always exploring new technologies and building exciting projects.</p>
 
-    <h2>Projects / Ideas</h2>
-    <h3>Working on & coming soon</h3>
+<h2>Projects / Ideas</h2><h6>(working on, coming soon!)</h6>
 
-    <ul>
-        <li><strong>Enjoyify</strong> – A quiz app integrated with the Spotify API, built with Golang and React.</li>
-        <li><strong>TailorSystem</strong> – A management system for seamstresses, handling orders, clients, and financial reports.</li>
-        <li><strong>Coastline</strong> – A rental platform similar to Airbnb, designed for a seamless experience.</li>
-        <li><strong>The Coffee Coast</strong> – A coffee shop project inspired by Kenko Coffee, featuring updated technologies and a fresh theme.</li>
-    </ul>
+<ul>
+  <li><strong>Enjoyify</strong> – A quiz app integrated with the Spotify API, built with Golang and React.</li>
+  <li><strong>TailorSystem</strong> – A management system for seamstresses, handling orders, clients, and financial reports.</li>
+  <li><strong>Coastline</strong> – A rental platform similar to Airbnb, designed for a seamless experience.</li>
+  <li><strong>The Coffee Coast</strong> – A coffee shop project inspired by Kenko Coffee, featuring updated technologies and a fresh theme.</li>
+</ul>
 
-    <h2>Technologies I'm focusing on</h2>
-    <ul>
-        <li>Golang</li>
-        <li>React</li>
-        <li>Docker</li>
-    </ul>
+<h2 align="center">Skills </h2>
 
-    <p>Let's connect and build something great.</p>
+<div align="center">
+  <a href="https://skillicons.dev" style="display: inline-block; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,docker,go,react" />
+  </a>
+  <a href="https://skillicons.dev" style="display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=postgres,vscode,visualstudio" />
+  </a>
+</div>
 
-</body>
-</html>
+<p></p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiorbf&theme=tokyonight" alt="sergio" />
+</p>
