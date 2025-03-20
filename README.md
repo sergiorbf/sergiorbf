@@ -21,9 +21,3 @@
     <img src="https://skillicons.dev/icons?i=postgres,vscode,visualstudio" />
   </a>
 </div>
-
-<p></p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiorbf&theme=tokyonight" alt="sergio" />
-</p>
